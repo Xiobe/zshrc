@@ -1,2 +1,2 @@
 # zshrc
-zsh configuration
+zsh configuration shared across systems.
